@@ -1,4 +1,3 @@
-import React from "react";
 import {Title} from '@ctodmia/company-site-components';
 
 function App() {
