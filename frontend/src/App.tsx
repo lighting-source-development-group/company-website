@@ -1,7 +1,8 @@
 import React from "react";
+import {Title} from '@ctodmia/company-site-components';
 
 function App() {
-  return <p>Hello World</p>;
+  return <Title content={'LS Dev Group'}/>;
 }
 
 export default App;
